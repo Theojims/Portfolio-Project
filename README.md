@@ -7,7 +7,7 @@ This repository contains the SQL scripts. The project aims to analyze data to ga
 - Queries for analyzing COVID data, such as case counts, recovery rates, and more.
 Description for GitHub:
 
-# Housing prcing Data cleaning
+# ii. Housing prcing Data cleaning
 
 it contains SQL queries related to data cleaning and transformation processes for a housing price dataset. Th
 
