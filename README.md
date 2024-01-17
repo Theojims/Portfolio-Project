@@ -9,7 +9,7 @@ Description for GitHub:
 
 # ii. Housing prcing Data cleaning
 
-it contains SQL queries related to data cleaning and transformation processes for a housing price dataset. Th
+it contains SQL queries related to data cleaning and transformation processes for a housing price dataset.
 
 # SQL Queries Overview:
 ## Populating Property Address Data:
